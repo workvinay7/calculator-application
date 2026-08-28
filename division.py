@@ -1,4 +1,4 @@
 def div(a,b)
-return a/b
-print (div(20,10)
+   return a/b
+print (div(20,10))
        
